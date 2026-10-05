@@ -10,9 +10,10 @@ A home for my Roblox projects, gameplay systems and selected Luau code samples.
 
 | Project | What you'll find | Status |
 | --- | --- | --- |
-| [Keep It Up!](projects/keep-it-up/README.md) | A case-study template for my role, systems, technical decisions and gameplay | Template — details pending |
+| [Train Kaiju to Destroy](projects/train-kaiju-to-destroy/README.md) | Sole programmer; frontend and backend Luau, maintenance and a major content update | Released · ongoing development |
+| [Keep It Up!](projects/keep-it-up/README.md) | Movement system for an unfinished game | Unfinished · movement system only |
 
-Project entries are being prepared individually. Templates contain prompts for future write-ups; completed case studies and code samples will be added as each project is reviewed.
+Case studies describe my confirmed contributions. Technical breakdowns, gameplay media and selected code samples are being added as each project is reviewed.
 
 ## Explore the portfolio
 
@@ -42,6 +43,12 @@ roblox-portfolio/
 ├── README.md
 ├── projects/
 │   ├── README.md
+│   ├── train-kaiju-to-destroy/
+│   │   ├── README.md
+│   │   ├── media/
+│   │   │   └── README.md
+│   │   └── code/
+│   │       └── README.md
 │   └── keep-it-up/
 │       ├── README.md
 │       ├── media/
