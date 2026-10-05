@@ -1,10 +1,11 @@
 # Projects
 
-Game case studies will show what I personally built, how the systems work and the decisions behind them.
+Game case studies show my programming responsibilities and contributions. Technical breakdowns and supporting media are being added individually.
 
 | Project | Status | Case study |
 | --- | --- | --- |
-| Keep It Up! | Template — details pending | [Open entry](keep-it-up/README.md) |
+| Train Kaiju to Destroy | Released · ongoing development | [Open case study](train-kaiju-to-destroy/README.md) |
+| Keep It Up! | Unfinished · movement system only | [Open project](keep-it-up/README.md) |
 
 ## Adding a project
 
