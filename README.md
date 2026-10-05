@@ -1,29 +1,22 @@
 # SxwvvyKNG · Roblox Programming Portfolio
 
-**Full-stack Roblox Luau Engineer · Looking for team roles**
+**Roblox Luau Programmer · Looking for team roles**
 
-Roblox programming contributions across **38 experiences**, alongside personal projects and selected Luau work.
+I've contributed programming work to **38 Roblox experiences**. Much of my work has involved maintaining existing games and programming smaller content updates, alongside larger updates on selected projects.
 
-[GitHub profile](https://github.com/sawvvygme) · [Roblox profile](https://www.roblox.com/users/3221852843/profile) · [Email](mailto:sawvvygme3@gmail.com)
+I work with multidisciplinary development teams, contributing Luau programming across gameplay, UI and backend systems.
 
-## Project showcases
+[View all 38 games I've contributed to →](projects/credits.md)
 
-| Project | What you'll find | Status |
-| --- | --- | --- |
-| [Vacuum For Brainrots](projects/vacuum-for-brainrots/README.md) | Slime update: new vacuums, pets, UI and live admin events; one of two programmers | Short showcase · 20,000+ concurrent players during involvement |
-| [Train Kaiju to Destroy](projects/train-kaiju-to-destroy/README.md) | Sole programmer; frontend and backend Luau, maintenance and a major content update | Released · ongoing development |
-| [Keep It Up!](projects/keep-it-up/README.md) | Movement system for an unfinished game | Unfinished · movement system only |
+## Experience
 
-Case studies describe my confirmed contributions. Technical breakdowns, gameplay media and selected code samples are being added as each project is reviewed.
+**[Vacuum For Brainrots](https://www.roblox.com/games/93724112271596/Vacuum-For-Brainrots) · Team programmer · Around April–June 2026**
 
-[View all 38 experience credits →](projects/credits.md)
+One of two programmers working with a wider multidisciplinary team. I contributed to several updates, including a Slime update with new vacuums, pets, UI and live admin events. During my involvement, the game was on Roblox's front page with **20,000+ concurrent players**.
 
-## Explore the portfolio
+**[Train Kaiju to Destroy](https://www.roblox.com/games/88757431525816/Train-Kaiju-to-Destroy) · Sole programmer · 28 April–late June 2026**
 
-- **[Projects](projects/README.md):** game case studies with contributions, demos and technical explanations.
-- **[Experience credits](projects/credits.md):** the full list of games I've contributed to.
-- **[Programming systems](systems/README.md):** individual systems and reusable Luau work.
-- **[Templates](templates/README.md):** the starting point for new project and system entries.
+I joined an existing game to maintain it and develop updates, taking responsibility for frontend and backend Luau programming within a multidisciplinary team. My work included smaller content updates and a major expansion with new kaiju, a new world and pets, including kaiju abilities, world progression, and saving player progression and pet data.
 
 ## Development areas
 
@@ -36,39 +29,4 @@ I'm looking for Roblox programming roles on a development team.
 - **Discord:** `sxwvvykng`
 - **Roblox:** [SxwvvyKNG](https://www.roblox.com/users/3221852843/profile)
 - **Email:** [sawvvygme3@gmail.com](mailto:sawvvygme3@gmail.com)
-
----
-
-<details>
-<summary>Repository structure</summary>
-
-```text
-roblox-portfolio/
-├── README.md
-├── projects/
-│   ├── README.md
-│   ├── credits.md
-│   ├── vacuum-for-brainrots/
-│   │   └── README.md
-│   ├── train-kaiju-to-destroy/
-│   │   ├── README.md
-│   │   ├── media/
-│   │   │   └── README.md
-│   │   └── code/
-│   │       └── README.md
-│   └── keep-it-up/
-│       ├── README.md
-│       ├── media/
-│       │   └── README.md
-│       └── code/
-│           └── README.md
-├── systems/
-│   └── README.md
-└── templates/
-    ├── README.md
-    ├── project.md
-    ├── short-project.md
-    └── system.md
-```
-
-</details>
+- **GitHub:** [sawvvygme](https://github.com/sawvvygme)
