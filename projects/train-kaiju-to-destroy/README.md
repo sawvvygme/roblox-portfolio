@@ -10,7 +10,7 @@ Train Kaiju to Destroy is a released Roblox game with ongoing development. Playe
 
 ## My role
 
-I joined an existing game to maintain it and develop updates. From **28 April to late June**, I was the sole programmer on the team, responsible for all Luau programming across the frontend and backend during my involvement.
+I joined an existing game to maintain it and develop updates. From **28 April to late June 2026**, I was the sole programmer on the team, responsible for all Luau programming across the frontend and backend during my involvement.
 
 I worked within a multidisciplinary team that included modellers, GFX artists, VFX artists and other contributors. This case study focuses on my programming contribution.
 
@@ -35,13 +35,17 @@ As the sole programmer, I was responsible for the Luau programming work for this
 
 ## Technical focus
 
-The areas I will highlight in the technical breakdown are:
+My programming work included:
 
-- **Kaiju abilities:** programming work on kaiju abilities.
-- **World progression:** programming work on progression between worlds.
-- **Saving player data:** programming work on the game's data-saving behavior.
+- **Kaiju abilities and integration.**
+- **World progression.**
+- **Saving player progression and pet data.**
 
 Implementation details and supporting samples will be added as these systems are reviewed.
+
+## A development challenge
+
+Integrating the new kaiju and getting their in-game behavior working was a challenging part of the major update. I worked through the integration issues and completed that work.
 
 ## Gameplay and technical showcase
 
