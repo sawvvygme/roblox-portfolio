@@ -1,11 +1,11 @@
 # Experience Credits
 
-Programming contributions to **38 Roblox experiences**. The list below records the games I have contributed to; specific contribution summaries are being added as each entry is reviewed.
+I've contributed Luau programming to **38 Roblox experiences**. Across many of these games, my work focused on maintaining the existing game and programming smaller content updates. The list records my contributions across different projects and teams.
 
 ## Selected contributions
 
-- **[Vacuum For Brainrots](vacuum-for-brainrots/README.md):** One of two programmers; worked on updates including a Slime update with new vacuums, pets, UI and live admin events. The experience was on the front page with 20,000+ concurrent players during my involvement.
-- **[Train Kaiju to Destroy](train-kaiju-to-destroy/README.md):** Sole programmer from 28 April to late June 2026; maintained an existing game and programmed content updates, including new kaiju, a world and pets.
+- **[Vacuum For Brainrots](https://www.roblox.com/games/93724112271596/Vacuum-For-Brainrots):** One of two programmers; worked on updates including a Slime update with new vacuums, pets, UI and live admin events. The experience was on the front page with 20,000+ concurrent players during my involvement.
+- **[Train Kaiju to Destroy](https://www.roblox.com/games/88757431525816/Train-Kaiju-to-Destroy):** Sole programmer from 28 April to late June 2026; maintained an existing game and programmed content updates, including new kaiju, a world and pets.
 
 ## All 38 experience credits
 
@@ -48,5 +48,4 @@ Programming contributions to **38 Roblox experiences**. The list below records t
 - [Train Kaiju to Destroy](https://www.roblox.com/games/88757431525816/Train-Kaiju-to-Destroy)
 - [Vacuum For Brainrots](https://www.roblox.com/games/93724112271596/Vacuum-For-Brainrots)
 
-[Project showcases](README.md) · [Portfolio](../README.md)
-
+[Portfolio](../README.md)
